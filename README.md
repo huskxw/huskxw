@@ -31,7 +31,7 @@ Eu faço uns códigos, não sou dev full-stack, só fico de **vibe-codding**. Aq
 ## 🌐 Onde me encontrar
 
 <p align="center">
-  <a href="https://t.me/usernamefdp" target="_blank">
+  <a href="https://t.me/huskxw" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   &nbsp;&nbsp;
