@@ -30,7 +30,7 @@
 ## 🖥️ Aplicativos mais usados
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=discord,vscode,visualstudio,spotify" />
+  <img src="https://skillicons.dev/icons?i=discord,telegram,vscode,visualstudio,spotify" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.com/users/1337529266807505058" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Discord" />
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
 </p>
 
