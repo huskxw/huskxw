@@ -30,7 +30,7 @@
 ## 🖥️ Aplicativos mais usados
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=discord,telegram,vscode,spotify,gamemaker" />
+  <img src="https://skillicons.dev/icons?i=discord,telegram,vscode,spotify,vscodedark" />
 </p>
 
 > *Nota: Como o Skill Icons não tem um ícone oficial do CS:GO, utilizei o ícone de 'gamemaker' ou você pode manter o badge de texto anterior se preferir.*
