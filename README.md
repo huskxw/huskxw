@@ -22,7 +22,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,angular,svelte,tailwind,figma,html,css" /><br><br>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,postgres,mongodb,docker,vscode,git" /><br><br>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,py,js,bash,linux,terminal,powershell,cursor" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,py,js,bash,linux,powershell,cursor" />
 </p>
 
 ---
