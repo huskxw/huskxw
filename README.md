@@ -30,7 +30,7 @@
 ## 🖥️ Aplicativos mais usados
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=discord,telegram,vscode,visualstudio,spotify" />
+  <img src="https://skillicons.dev/icons?i=discord,vscode,visualstudio,spotify" />
 </p>
 
 ---
