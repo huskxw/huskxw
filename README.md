@@ -47,8 +47,4 @@
   </a>
 </p>
 
----
 
-## 🚀 Alguns dos meus projetos
-
-(Logo mais vou postando as coisas aqui como lib e outras coisas que sei ou ja desenvolvi, e irei colocando o link dos reps)
