@@ -49,13 +49,6 @@
 
 ---
 
-## 🎓 Sobre mim
-
-* **Vibe-Codding:** as vezes faço alguns projects sem llms
-* Comecei a aprender essas coisas aí de nerd recentemente, não sou nerd++ ainda, sou nerd-+.
-
----
-
 ## 🚀 Alguns dos meus projetos
 
 (Logo mais vou postando as coisas aqui como lib e outras coisas que sei ou ja desenvolvi, e irei colocando o link dos reps)
