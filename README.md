@@ -38,9 +38,7 @@
 ## 🌐 Onde me encontrar
 
 <p align="center">
-  <a href="https://t.me/huskxw" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
+
   &nbsp;&nbsp;
   <a href="https://discord.com/users/1337529266807505058" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
