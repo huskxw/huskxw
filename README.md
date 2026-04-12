@@ -40,6 +40,7 @@
 <p align="center">
 
   &nbsp;&nbsp;
+</p>
   <a href="https://discord.com/users/1337529266807505058" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
