@@ -11,7 +11,7 @@
 
 ---
 
-## 🦇 Ask Me About
+## Ask Me About
 
 - **Web Development:** HTML/CSS, JavaScript, React, Next.js, Angular, Svelte, Tailwind CSS.
 - **Backend & Infrastructure:** Node.js, NestJS, Express, Mongoose, Prisma, Docker.
