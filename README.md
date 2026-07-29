@@ -38,7 +38,6 @@ Focusing on Scalability, Clean Code, and User Experience. **
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,postgres,mongodb,docker,linux,powershell,git,vscode,cursor" />
 </p>
 
----
 ## 🌐 Onde me encontrar
 
 <div align="center">
