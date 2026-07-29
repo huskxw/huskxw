@@ -34,16 +34,16 @@
 </p>
 
 ---
-
 ## 🌐 Onde me encontrar
 
-<p align="center">
-
-  &nbsp;&nbsp;
-</p>
+<div align="center">
   <a href="https://discord.com/users/1337529266807505058" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+    <img
+      src="https://api.cee.bio/discord/user/discord-arts/1337529266807505058/card?badgesFrame=true&backgroundBrightness=000&moreBackgroundBlur=true"
+      alt="Discord Status"
+      width="500"
+    />
   </a>
-</p>
+</div>
 
 
