@@ -24,19 +24,19 @@
 
 ### Languages
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,py,cs,cpp,bash" />
 </p>
 
 ### Frontend
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,angular,svelte,tailwind,html,css,figma" />
 </p>
 
 ### Backend & Infrastructure
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,postgres,mongodb,docker,linux,powershell,git,vscode,cursor" />
 </p>
 
