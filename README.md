@@ -28,8 +28,7 @@
 
 ## Tech Stack & Ecosystem
 
-### Languages
-
+**Languages**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,py,cs,cpp,bash" />
 </p>
