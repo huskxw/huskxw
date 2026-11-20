@@ -27,23 +27,21 @@
 
 ---
 
-## Tech Stack & Ecosystem
+### Tech Stack & Ecosystem
 
 **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,cs,cpp,bash" />
+  <img src="https://skillicons.dev/icons?i=rust,ts,js,go,python,lua,ruby&theme=dark" />
 </p>
 
-### Frontend
-
+**Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,svelte,tailwind,html,css,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,angular,tailwind&theme=dark" />
 </p>
 
-### Backend & Infrastructure
-
+**Backend & Infrastructure**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,postgres,mongodb,docker,linux,powershell,git,vscode,cursor" />
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,postgres,redis,mongodb,docker,kubernetes,linux,nginx,firebase,git,github&theme=dark" />
 </p>
 
 ---
