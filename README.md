@@ -58,11 +58,9 @@
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
 
-##  Connect With Me
-
 <div align="center">
-  <a href="https://discord.com/users/1337529266807505058" target="_blank">
-    <img src="https://api.cee.bio/discord/user/discord-arts/1337529266807505058/card?badgesFrame=true&backgroundBrightness=000&moreBackgroundBlur=true" alt="Discord Status" width="500" />
+  <a href="https://discord.com">
+    <img src="https://api.cee.bio/discord/user/discord-arts/73598582153805824/card?badgesFrame=true&backgroundBrightness=000&moreBackgroundBlur=true" alt="Discord Status" width="500" />
   </a>
 </div>
 
