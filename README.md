@@ -47,15 +47,4 @@
 ---
 
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
-
-<div align="center">
-  <a href="https://discord.com">
-    <img src="https://api.cee.bio/discord/user/discord-arts/1337529266807505058/card?badgesFrame=true&backgroundBrightness=000&moreBackgroundBlur=true" alt="Discord Status" width="500" />
-  </a>
-</div>
-
-
 
