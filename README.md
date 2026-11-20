@@ -47,6 +47,13 @@
 
 ---
 
+### Featured Project: [Easebot.app](https://easebot.app)
+
+> **The next level of Discord Sales Automation.**
+> A specialized platform to automate sales and build custom landing pages for communities.
+
+---
+
 ##  Connect With Me
 
 <div align="center">
