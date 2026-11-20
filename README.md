@@ -48,12 +48,6 @@
 
 ---
 
-### Featured Project: [Easebot.app](https://easebot.app)
-
-> **The next level of Discord Sales Automation.**
-> A specialized platform to automate sales and build custom landing pages for communities.
-
----
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
